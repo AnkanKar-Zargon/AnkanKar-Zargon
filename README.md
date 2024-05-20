@@ -13,3 +13,9 @@ Here are some ideas to get you started:
 - I’m open to collaborate on Research and Industrial Related Works
 - Ask me about anything thats related to my research interests
 - How to reach me: ankank.mcs2023@cmi.ac.in
+
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnkanKar-Zargon&show_icons=true&locale=en&layout=compact" alt="AnkanKar-Zargon" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnkanKar-Zargon&" alt="AnkanKar-Zargon" /></p>
