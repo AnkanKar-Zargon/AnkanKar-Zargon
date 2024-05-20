@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Ankan Kar</h1>
 
 <!--
 **AnkanKar-Zargon/AnkanKar-Zargon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
