@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 - I’m currently working on Causal AI and Graph Algorithms
 - I’m currently learning Causal Machine Learning, Reinforcement Learning for Quant Research
 - My research interests are Causality, Artificial Intelligence, Machine Learning, Graph Theory & Algorithms, Probability
-- I’m open to collaborate on Research and Industrial Related Works
+- I’m open to collaborate on Academic Research and Industrial Works
 - Ask me about anything thats related to my research interests
-- How to reach me: ankank.mcs2023@cmi.ac.in
+- How to reach me: zargon.ankan@gmail.com, ankank.mcs2023@cmi.ac.in
 
 
 
