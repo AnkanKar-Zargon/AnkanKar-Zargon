@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnkanKar-Zargon&show_icons=true&locale=en&layout=compact" alt="AnkanKar-Zargon" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnkanKar-Zargon&" alt="AnkanKar-Zargon" /></p>
+<img align="left" width="49%" height="40%" src="https://github-readme-stats.vercel.app/api?username=AnkanKar-Zargon&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img align="left" width="46%" height="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkanKar-Zargon&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide_border=true"/>
