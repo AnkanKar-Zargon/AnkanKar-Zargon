@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - I’m open to collaborate on Academic Research and Industrial Works
 - Ask me about anything thats related to my research interests
 - How to reach me: zargon.ankan@gmail.com, ankank.mcs2023@cmi.ac.in
+- Check out my website <a href="https://ankankar-zargon.github.io/"> website </a> for more details
 
 
 
