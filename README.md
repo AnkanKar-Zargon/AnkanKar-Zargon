@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 -->
 
-- I’m currently working on Causal AI and Graph Algorithms
-- I’m currently learning Causal Machine Learning, Reinforcement Learning for Quant Research
+- I’m currently working on Causal AI, PIT on ROABPs and Graph Algorithms
+- I’m currently learning Causal Learning for AI Development and Reinforcement Learning for Quant Research
 - My research interests are Statistical Learning, Machine Learning, Causality, Artificial Intelligence, Graph Theory & Algorithms, Probability
 - I’m open to collaborate on Academic Research and Industrial Works
 - Ask me about anything thats related to my research interests
