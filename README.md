@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 -->
 
 - I’m currently learning Causal Learning for AI Development and Reinforcement Learning for Quant Research
-- I’m currently working on Causal AI, PIT on ROABPs and Graph Algorithms
-- My research interests are Statistical Learning, Causality, AI, Graph Theory & Algorithms, Algebraic Complexity Theory
+- I’m currently working on Causal AI in Supply Chain and Causal Aware Models in CNNs
+- My research interests are Statistical Machine Learning, Causality, Algorithmic Trading, Graph Theory, AI
 - I’m open to collaborate on Academic Research and Industrial Works
 - Ask me about anything thats related to my research interests
 - How to reach me: zargon.ankan@gmail.com, ankank.mcs2023@cmi.ac.in
