@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 
 - I’m currently learning Causal Learning for AI Development and Reinforcement Learning for Quant Research
 - I’m currently working on Causal AI in Supply Chain and Causal Aware Models in CNNs
+- Along with it I am also working on Automated Stock Market Trading model
 - My research interests are Statistical Machine Learning, Causality, Algorithmic Trading, Graph Theory, AI
 - I’m open to collaborate on Academic Research and Industrial Works
 - Ask me about anything thats related to my research interests
