@@ -7,14 +7,49 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 -->
 
-- I’m currently learning Causal Learning for AI Development and Reinforcement Learning for Quant Research
-- I’m currently working on Causal AI in Supply Chain and Causal Aware Models in CNNs
-- Along with it I am also working on Automated Stock Market Trading model
-- My research interests are Statistical Machine Learning, Causality, Algorithmic Trading, Graph Theory, AI
-- I’m open to collaborate on Academic Research and Industrial Works
-- Ask me about anything thats related to my research interests
-- How to reach me: zargon.ankan@gmail.com, ankank.mcs2023@cmi.ac.in
-- Check out my website <a href="https://ankankar-zargon.github.io/"> website </a> for more details
+## 📌 Current Focus  
+
+- 📖 **Learning**: Quantitative and Algortihmic Research in Trading, Causal Learning for AI Development
+- 🔬 **Working On**:
+  - Automated Stock Market Trading Systems 
+  - Causal AI in Optimization Problems  
+  - Causally Aware Models in CNNs in Medical Studies 
+   
+- 🎯 **Research Interests**: Statistical Machine Learning, Algorithmic Trading, Causality, AI, Graph Theory 
+- 🤝 **Collaboration**: Open to both Academic Research and Industrial Projects  
+- 💬 **Ask Me About**: Anything related to my research interests  
+
+---
+
+## 🎓 Education  
+
+- **Bachelor of Mathematics (Hons.)**  
+  *Indian Statistical Institute, Bangalore* (2020 – 2023)  
+
+- **Master of Science in Computer Science**  
+  *Chennai Mathematical Institute* (2023 – 2025)  
+
+---
+
+## 🛠️ Technologies & Tools  
+
+- 🐍 **Languages**: C++, Python, C, R, SQL; Learning stage in Rust, Java, Kotlin, MongoDB  
+- 🛠️ **Tools**: Cursor, Jupyter Notebook, Google Colab, Kaggle, Sublime Text, Vs Code, Far Manager, RStudios, RMarkdown, Sweave, Anaconda, AWS, CI/CD, MLOps 
+- ✍️ **Others**: WSL, Git, Ubuntu Linux, Latex
+
+---
+
+## 🌐 Connect with Me  
+
+- 📧 Email: [zargon.ankan@gmail.com](mailto:zargon.ankan@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/ankan-kar](https://www.linkedin.com/in/ankan-kar)
+- 🌍 Website: [ankankar-zargon.github.io](https://ankankar-zargon.github.io/)  
+
+---
+
+✨ **Zargon (me)**: *“There is nothing in this world that is totally perfect or totally imperfect.”* <br>
+    
+
 
 
 
