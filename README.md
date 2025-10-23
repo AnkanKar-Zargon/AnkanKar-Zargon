@@ -11,11 +11,12 @@ Here are some ideas to get you started:
 
 - 📖 **Learning**: Quantitative and Algortihmic Research in Trading, Causal Learning for AI Development
 - 🔬 **Working On**:
+  - AI/ML Systems and GenAI      
   - Automated Stock Market Trading Systems 
   - Causal AI in Optimization Problems  
   - Causally Aware Models in CNNs in Medical Studies 
    
-- 🎯 **Research Interests**: Statistical Machine Learning, Algorithmic Trading, Causality, AI, Graph Theory 
+- 🎯 **Research Interests**: Statistical Machine Learning, AI, Causality, Algorithmic Trading, Graph Theory 
 - 🤝 **Collaboration**: Open to both Academic Research and Industrial Projects  
 - 💬 **Ask Me About**: Anything related to my research interests  
 
