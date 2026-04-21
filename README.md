@@ -99,8 +99,8 @@
  
 | Exam | Result |
 |------|--------|
-| ISI MTech CS Entrance Exam (2025) | 🇮🇳 All India Rank **3** |
-| ISI Bachelor's Entrance Exam (2020) | 🇮🇳 All India Rank **56** |
+| ISI MTech CS Entrance Exam (2025) | All India Rank **3** |
+| ISI Bachelor's Entrance Exam (2020) | All India Rank **56** |
 | JEE Advanced (2020) | AIR **1799** |
 | JEE Main (2020) | **98.7 percentile** |
 | WBJEE (2020) | AIR **285** |
