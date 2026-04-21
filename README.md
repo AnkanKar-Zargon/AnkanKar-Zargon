@@ -76,6 +76,45 @@
 
 ---
 
+
+## 🏆 Notable Achievements
+ 
+**Competitive Data Science**
+ 
+| Competition | Result |
+|-------------|--------|
+| [Hedge Fund – Time Series Forecasting, Kaggle (2026)](https://www.kaggle.com/competitions/ts-forecasting) | 🥇 Top 7% · Rank **64** / 982 teams |
+| [Kaggle Playground S6E2 – Predicting Heart Disease (2026)](https://www.kaggle.com/competitions/playground-series-s6e2) | 🥇 Top 5% · Rank **189** / 4370 teams |
+ 
+**Competitive Programming**
+ 
+| Competition | Result |
+|-------------|--------|
+| Yandex Cup Algorithm World Finals (2022) | 🌐 International Rank **144** |
+| Yandex Cup Algorithm World Finals (2021) | 🌐 International Rank **173** |
+| ACM ICPC South-West Asia Regionals (2021) | 🌐 International Rank **292** |
+| ICPC AI Challenge (2021) | 🌐 International Rank **108** |
+ 
+**Academic Excellence**
+ 
+| Exam | Result |
+|------|--------|
+| ISI MTech CS Entrance Exam (2025) | 🇮🇳 All India Rank **3** |
+| ISI Bachelor's Entrance Exam (2020) | 🇮🇳 All India Rank **56** |
+| JEE Advanced (2020) | AIR **1799** |
+| JEE Main (2020) | **98.7 percentile** |
+| WBJEE (2020) | AIR **285** |
+ 
+**Competitive Programming Ratings**
+ 
+[![Codechef](https://img.shields.io/badge/CodeChef-1822_(4★)-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/zargon)
+[![Leetcode](https://img.shields.io/badge/LeetCode-1785-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/zargon/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1419_(Specialist)-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ZARGON)
+[![HackerEarth](https://img.shields.io/badge/HackerEarth-1680-2C3454?style=flat-square&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@Zargon/)
+
+---
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
