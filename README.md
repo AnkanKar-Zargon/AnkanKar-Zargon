@@ -77,7 +77,7 @@
 ---
 
 
-## 🏆 Notable Achievements
+## 🏆 Some Notable Achievements
  
 **Competitive Data Science**
  
