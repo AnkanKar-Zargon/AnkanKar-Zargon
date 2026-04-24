@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankan Kar</h1>
 <h3 align="center">
-  <code>CodeName: Zargon</code> &nbsp;·&nbsp; Algorithms · Quant Finance · Causal AI
+  <code>CodeName: Zargon</code> &nbsp;·&nbsp; Algorithms · Quant Finance · Causal AI  · GenAI
 </h3>
 
 <br/>
